@@ -4,17 +4,17 @@
 
 - 🔭 I’m currently working on [Research Paper Analyzer (V1)](https://github.com/Aopandey/Research-Paper-Analyzer)
 
-- 🌱 I’m currently learning - <br/>**Machine Learning Operations (MLOps): Implementing and managing machine learning pipelines and workflows in production. <br/>
-Cloud Integration: Learning Docker, Azure, and Dagster for scalable and efficient deployment of applications.<br/>
-Metadata Filtering Algorithms: Improving precision in summarized research outputs.<br/>
-Automated Data Processing: Using tools like ZenML and Prefect for efficient data handling. <br/>
-Streamlit Applications: Developing user-friendly web applications for data visualization and interaction.<br/>
-Frontend Development with React: Building dynamic and responsive web applications using React.js, including state management with Redux. <br/>
-API Integration: Connecting frontend applications with backend services through RESTful APIs.**
+- 🌱 I’m currently learning - <br/>**<u>Machine Learning Operations (MLOps):</u> Implementing and managing machine learning pipelines and workflows in production. <br/>
+<u>Cloud Integration:</u> Learning Docker, Azure, and Dagster for scalable and efficient deployment of applications.<br/>
+<u>Metadata Filtering Algorithms:</u> Improving precision in summarized research outputs.<br/>
+<u>Automated Data Processing:</u> Using tools like ZenML and Prefect for efficient data handling. <br/>
+<u>Streamlit Applications:</u> Developing user-friendly web applications for data visualization and interaction.<br/>
+<u>Frontend Development with React:</u> Building dynamic and responsive web applications using React.js, including state management with Redux. <br/>
+<u>API Integration:</u> Connecting frontend applications with backend services through RESTful APIs.**
 
 - 👨‍💻 All of my projects are available at [Web Portfolio](https://avinashpandey.streamlit.app/)
 
-- 📫 How to reach me [Personal Email](aopandey@purdue.edu)
+- 📫 How to reach me aopandey@purdue.edu (Personal Email)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eAjJeHJkN4FuHjB_RVUEBpe3Kxokewo_/view?usp=sharing)
 
