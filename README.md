@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Avinash Pandey</h1>
-<h3 align="center">Currently a Machine Learning Engineering Intern at Aider Ventures, graduating from Purdue University in December 2024 with a Bachelors of Science in Computer Science and a minor in Mathematics</h3>
+<h3 align="center">Currently a Machine Learning Engineering Intern at Aider Ventures <br/> 
+  Graduating from Purdue University in December 2024 with a Bachelors of Science in Computer Science and a minor in Mathematics</h3>
 
 - 🔭 I’m currently working on [Research Paper Analyzer (V1)](https://github.com/Aopandey/Research-Paper-Analyzer)
 
-- 🌱 I’m currently learning **Machine Learning Operations (MLOps): Implementing and managing machine learning pipelines and workflows in production. <br/>
+- 🌱 I’m currently learning - <br/>**Machine Learning Operations (MLOps): Implementing and managing machine learning pipelines and workflows in production. <br/>
 Cloud Integration: Learning Docker, Azure, and Dagster for scalable and efficient deployment of applications.<br/>
 Metadata Filtering Algorithms: Improving precision in summarized research outputs.<br/>
 Automated Data Processing: Using tools like ZenML and Prefect for efficient data handling. <br/>
