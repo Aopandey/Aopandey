@@ -15,7 +15,7 @@ Graduating from Purdue University in December 2024 with a Bachelor's of Science 
 
 - 👨‍💻 All of my projects are available at [Web Portfolio](https://avinashpandey.streamlit.app/)
 
-- 📫 How to reach me aopandey@purdue.edu (Personal Email)
+- 📫 How to reach me aopandey24@gmail.com (Personal Email)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eAjJeHJkN4FuHjB_RVUEBpe3Kxokewo_/view?usp=sharing)
 
