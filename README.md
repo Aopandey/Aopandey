@@ -17,7 +17,7 @@ Graduating from Purdue University in December 2024 with a Bachelor's of Science 
 
 - 📫 How to reach me aopandey24@gmail.com (Personal Email)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eAjJeHJkN4FuHjB_RVUEBpe3Kxokewo_/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1K4KxVerlfme38-pA8RXm4ryTVor9I9Rx/view?usp=drive_link)
 
 - ⚡ Fun fact **I've lost over 100 lbs in body weight!**
 
