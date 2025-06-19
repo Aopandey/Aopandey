@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinash Pandey</h1>
-<h3 align="center">Currently a Machine Learning Engineering Intern at Aider Ventures <br/>
-Graduating from Purdue University in December 2024 with a Bachelor's of Science in Computer Science and a minor in Mathematics</h3>
+<h3 align="center">Currently a Research Assistnat at Purdue University <br/>
+Graduated from Purdue University in December 2024 with a Bachelor's of Science in Computer Science and a minor in Mathematics</h3>
 
 - 🔭 I’m currently working on [Research Paper Analyzer (V1)](https://github.com/Aopandey/Research-Paper-Analyzer)
 
