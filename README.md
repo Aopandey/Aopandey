@@ -2,7 +2,7 @@
 <h3 align="center">Currently a Research Assistant at Purdue University <br/>
 Graduated from Purdue University in December 2024 with a Bachelor's of Science in Computer Science and a minor in Mathematics</h3>
 
-- 🔭 I’m currently working on Writing a Paper regarding applications of Machine Learning and Information Sciences in Biomedical Domain
+- 🔭 I’m currently working on: Writing a paper regarding Applications of Machine Learning and Information Sciences in Biomedical Domain
 
 - 🌱 I’m currently learning:
   - **<u>Machine Learning Operations (MLOps):</u>** Implementing and managing machine learning pipelines and workflows in production.  
