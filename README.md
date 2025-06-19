@@ -2,7 +2,7 @@
 <h3 align="center">Currently a Research Assistant at Purdue University <br/>
 Graduated from Purdue University in December 2024 with a Bachelor's of Science in Computer Science and a minor in Mathematics</h3>
 
-- 🔭 I’m currently working on [Research Paper Analyzer (V1)](https://github.com/Aopandey/Research-Paper-Analyzer)
+- 🔭 I’m currently working on [Writing a Paper regarding applications of Machine Learning and Information Sciences in Biomedical Domain]
 
 - 🌱 I’m currently learning:
   - **<u>Machine Learning Operations (MLOps):</u>** Implementing and managing machine learning pipelines and workflows in production.  
@@ -17,7 +17,7 @@ Graduated from Purdue University in December 2024 with a Bachelor's of Science i
 
 - 📫 How to reach me aopandey24@gmail.com (Personal Email)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1K4KxVerlfme38-pA8RXm4ryTVor9I9Rx/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XAKWQT8qbf9Vx-_LuM89iLZhVqAVxAva/view?usp=drive_link)
 
 - ⚡ Fun fact **I've lost over 100 lbs in body weight!**
 
