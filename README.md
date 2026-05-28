@@ -18,11 +18,11 @@ Graduated from Purdue University in December 2024 with a B.S in Computer Science
   * Built a **multi-LLM biomedical literature system** using Gemini, GPT-4o-mini, PubMed Entrez, NIH iCite, citation-aware ranking, and evaluation with ROUGE/BERTScore.
   * Built an **ICML 2024 Research Paper Analyzer** to collect, parse, retrieve, summarize, and analyze 2,600+ research papers using FAISS, ChromaDB, Gemini API, and LangChain.
 
-- 👨‍💻 All of my projects are available at [Web Portfolio](https://avipandey.com/)
+- 👨‍💻 All of my projects are available at: [Web Portfolio](https://avipandey.com/)
 
-- 📫 How to reach me aopandey24@gmail.com
+- 📫 How to reach me: [Gmail](aopandey24@gmail.com)
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1XAKWQT8qbf9Vx-_LuM89iLZhVqAVxAva/view?usp=drive_link](https://drive.google.com/file/d/1AZsp1xBN1Ksr1Q1tYkeNXPgpeW97vIdJ/view?usp=sharing))
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1AZsp1xBN1Ksr1Q1tYkeNXPgpeW97vIdJ/view?usp=sharing)
 
 - ⚡ Fun fact **I've lost over 100 lbs in body weight and got into running, lifting, hiking, and traveling along the way!**
 
