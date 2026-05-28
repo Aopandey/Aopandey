@@ -20,7 +20,7 @@ Graduated from Purdue University in December 2024 with a B.S in Computer Science
 
 - 👨‍💻 All of my projects are available at: [Web Portfolio](https://avipandey.com/)
 
-- 📫 How to reach me: [Gmail](aopandey24@gmail.com)
+- 📫 How to reach me: aopandey24@gmail.com
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1AZsp1xBN1Ksr1Q1tYkeNXPgpeW97vIdJ/view?usp=sharing)
 
