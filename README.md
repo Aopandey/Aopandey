@@ -1,25 +1,30 @@
 <h1 align="center">Hi 👋, I'm Avinash Pandey</h1>
-<h3 align="center">Currently a Research Assistant at Purdue University <br/>
-Graduated from Purdue University in December 2024 with a Bachelor's of Science in Computer Science and a minor in Mathematics</h3>
+<h3 align="center">I’ll be starting my M.S. in Artificial Intelligence at Northeastern University in Fall 2026 <br/>
+Graduated from Purdue University in December 2024 with a B.S in Computer Science and a minor in Mathematics</h3>
 
-- 🔭 I’m currently working on: Writing a paper regarding Applications of Machine Learning and Information Sciences in Biomedical Domain
+- 🔭 I’m currently working on: Multi-LLM systems for biomedical literature summarization, relevance ranking, and research discovery
 
-- 🌱 I’m currently learning:
-  - **<u>Machine Learning Operations (MLOps):</u>** Implementing and managing machine learning pipelines and workflows in production.  
-  - **<u>Cloud Integration:</u>** Learning Docker, Azure, and Dagster for scalable and efficient deployment of applications.  
-  - **<u>Metadata Filtering Algorithms:</u>** Improving precision in summarized research outputs.  
-  - **<u>Automated Data Processing:</u>** Using tools like ZenML and Prefect for efficient data handling.  
-  - **<u>Streamlit Applications:</u>** Developing user-friendly web applications for data visualization and interaction.  
-  - **<u>Frontend Development with React:</u>** Building dynamic and responsive web applications using React.js, including state management with Redux.  
-  - **<u>API Integration:</u>** Connecting frontend applications with backend services through RESTful APIs.
+* 🌱 I’m currently learning and building with:
 
-- 👨‍💻 All of my projects are available at [Web Portfolio](https://avinashpandey.streamlit.app/)
+  * **<u>LLM & RAG Systems:</u>** Building retrieval, ranking, and summarization workflows using LLMs, vector databases, and metadata filtering.
+  * **<u>Applied Machine Learning:</u>** Designing ML pipelines for NLP, classification, evaluation, and data-driven decision support.
+  * **<u>Data & ML Pipelines:</u>** Working with APIs, structured/unstructured data, ETL workflows, and scalable evaluation pipelines.
+  * **<u>AI Tooling:</u>** Using tools like Cursor, Claude Code, GitHub Copilot, and ChatGPT to speed up development and iteration.
+  * **<u>Cloud & MLOps:</u>** Learning and applying tools like Docker, Kubernetes, AWS, and MLflow for more reliable AI/ML workflows.
+  * **<u>Research Systems:</u>** Building tools that help users search, rank, compare, and summarize dense research literature.
 
-- 📫 How to reach me aopandey24@gmail.com (Personal Email)
+* 🧪 Recent work:
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XAKWQT8qbf9Vx-_LuM89iLZhVqAVxAva/view?usp=drive_link)
+  * Built a **multi-LLM biomedical literature system** using Gemini, GPT-4o-mini, PubMed Entrez, NIH iCite, citation-aware ranking, and evaluation with ROUGE/BERTScore.
+  * Built an **ICML 2024 Research Paper Analyzer** to collect, parse, retrieve, summarize, and analyze 2,600+ research papers using FAISS, ChromaDB, Gemini API, and LangChain.
 
-- ⚡ Fun fact **I've lost over 100 lbs in body weight!**
+- 👨‍💻 All of my projects are available at [Web Portfolio](https://avipandey.com/)
+
+- 📫 How to reach me aopandey24@gmail.com
+
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1XAKWQT8qbf9Vx-_LuM89iLZhVqAVxAva/view?usp=drive_link](https://drive.google.com/file/d/1AZsp1xBN1Ksr1Q1tYkeNXPgpeW97vIdJ/view?usp=sharing))
+
+- ⚡ Fun fact **I've lost over 100 lbs in body weight and got into running, lifting, hiking, and traveling along the way!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -64,4 +69,3 @@ Graduated from Purdue University in December 2024 with a Bachelor's of Science i
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aopandey&show_icons=true&locale=en&layout=compact" alt="aopandey" /></p>
