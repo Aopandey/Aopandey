@@ -2,7 +2,7 @@
 <h3 align="center">I’ll be starting my M.S. in Artificial Intelligence at Northeastern University in Fall 2026 <br/>
 Graduated from Purdue University in December 2024 with a B.S in Computer Science and a minor in Mathematics</h3>
 
-- 🔭 I’m currently working on: Multi-LLM systems for biomedical literature summarization, relevance ranking, and research discovery
+- 🔭 I’m currently working on: World Cup XG Lab
 
 * 🌱 I’m currently learning and building with:
 
